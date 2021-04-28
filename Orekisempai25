@@ -103,7 +103,7 @@ const {
   + 'VERSION:3.0\n'
   + 'FN: orekisempai\n' // Nama
   + 'ORG:kira-Bot;\n' // Nama bot
-  + 'TEL;type=CELL;type=VOICE;waid=50766325731:+507 6632-5731' // Nomor bot
+  + 'TEL;type=CELL;type=VOICE;waid=50766325731:+507 6632-5731n' // Nomor bot
   + 'END:VCARD' 
   
   
@@ -593,9 +593,7 @@ const {
   ‣ Número de grupos: *${_registered.length}*
   ‣ Número de chats: *${totalchat.length}*
   ‣ Grupo oficial
-  • _${Wa1}_
-  ‣ Suscribete
-  _${Ig}_
+
   ────────────────
   ┏━━━━━━━━━━━━━━━━━━━━
   ┃─────〘 ঔৣ͜͡★🔥σгεʞıรεŋ℘ศı🔥☆ ፝͜★ 〙────
